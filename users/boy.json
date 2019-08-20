@@ -1,0 +1,41 @@
+{
+    "name": "boy",
+    "slot1": [
+        {
+            "level": "0",
+            "name": "Persian",
+            "type": "Normal",
+            "hp": "0",
+            "def": "0",
+            "atk": "0",
+            "spatk": "0",
+            "spdef": "0",
+            "ability": "0",
+            "item": "0",
+            "atk1": {
+                "name": "name",
+                "power": "power",
+                "pp": "pp",
+                "acc": "acc"
+            },
+            "atk2": {
+                "name": "name",
+                "power": "power",
+                "pp": "pp",
+                "acc": "acc"
+            },
+            "atk3": {
+                "name": "name",
+                "power": "power",
+                "pp": "pp",
+                "acc": "acc"
+            },
+            "atk4": {
+                "name": "name",
+                "power": "power",
+                "pp": "pp",
+                "acc": "acc"
+            }
+        }
+    ]
+}
